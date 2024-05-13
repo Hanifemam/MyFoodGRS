@@ -27,7 +27,7 @@ In this paper, we investigate the causes of this poor performance. We analyze th
 
 ## Citation
 
-If you use this dataset or find our work useful, please cite our paper:
+If you use this dataset or find our work useful, please cite our paper:\
 @inproceedings{emamgholizadeh2024anticipating,\
 title={Anticipating Eating Preferences in Group Decision Making},\
 author={Emamgholizadeh, Hanif and Delić, Amra and Ricci, Francesco},\
